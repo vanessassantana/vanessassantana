@@ -27,7 +27,7 @@
 <p>
 📫 Sinta-se à vontade para entrar em contato!
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantos30/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantossantana/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vanessasantana12@outlook.com)
 
 <br> <br> <br>
