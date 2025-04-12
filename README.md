@@ -7,25 +7,27 @@
 
 ### 💫 sobre mim
  <br>
-
-👩‍💻 Tô em transição de carreira e decidi entrar de cabeça no mundo da programação. O foco? Me tornar uma dev back-end Java (com muito café no caminho, claro ☕).
  
-💻 Aprendo fuçando, testando, quebrando tudo e tentando de novo. Errar faz parte, e desistir não tá nos planos.
+👩‍💻 Em transição de carreira, focada em virar dev back-end Java (com muito café no caminho, claro ☕).
 
-🎬 Amo maratonar filmes e séries mas ultimamente, o que eu tenho maratonado mesmo são códigos, fundamentos e sintaxes. Spoiler: todo dia tem um bug plot twist.
 
-📚 Minha caminhada por aqui é tipo uma série com várias temporadas: tem evolução, tem reviravolta, tem pausa pro café, e tem aprendizado em cada episódio.
+💻 Aprendo na prática: fuçando, testando, errando, tentando de novo e seguido firme porque desistir não tá nos planos.
 
-🚀 Aprender, errar, refatorar, repetir. Debugar faz parte da vida e do código.
+🎬 Amo maratonar filmes e séries, mas agora maratono código. Spoiler: tem bug com plot twist todo dia.
 
-💬 Nesse espaço quero registrar tudo: estudos, práticas, projetos e cada passo rumo ao meu objetivo de virar dev back-end Java. Bora codar e crescer!
- 
+📚 Minha caminhada é tipo série com várias temporadas: cheia de reviravoltas, bugs, cafés e evolução com aprendizado em cada episódio.
+
+🚀 Esse perfil é meu diário de bordo: onde registro estudos, projetos e cada passo rumo à minha primeira vaga como dev back-end Java.
+
+💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
+
 <p>
 📫 Sinta-se à vontade para entrar em contato!
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantossantana/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vanessasantana12@outlook.com)
 
+<br>
 
 ![431827538-af00cee0-5a9d-45ff-844c-8627618f8963](https://github.com/user-attachments/assets/ab052b11-e0a2-4777-a44d-f9f3026ce776)
 
