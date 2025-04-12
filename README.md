@@ -3,32 +3,36 @@
 # 🖖 **Saudações, terráqueos! Bem-vindo ao meu universo!** 💜
 <br><br>
 
-
-![431827538-af00cee0-5a9d-45ff-844c-8627618f8963](https://github.com/user-attachments/assets/ab052b11-e0a2-4777-a44d-f9f3026ce776)
-
 </div>
 
-<br><br>
-
- ### 💫 sobre mim
+### 💫 sobre mim
  <br>
 
- 👩‍💻 Em transição de carreira, focada em me tornar uma desenvolvedora back-end Java.
+👩‍💻 Tô em transição de carreira e decidi entrar de cabeça no mundo da programação. O foco? Me tornar uma dev back-end Java (com muito café no caminho, claro ☕).
+ 
+💻 Aprendo fuçando, testando, quebrando tudo e tentando de novo. Errar faz parte, e desistir não tá nos planos.
 
-🎬 Já maratonei muitas séries, mas agora meu passatempo é entender os fundamentos da programação e sim, tem plot twist todo dia.
+🎬 Amo maratonar filmes e séries mas ultimamente, o que eu tenho maratonado mesmo são códigos, fundamentos e sintaxes. Spoiler: todo dia tem um bug plot twist.
 
-🔍 Curiosa de nascença, aprendiz por escolha. Tô sempre buscando entender como as coisas funcionam.
+📚 Minha caminhada por aqui é tipo uma série com várias temporadas: tem evolução, tem reviravolta, tem pausa pro café, e tem aprendizado em cada episódio.
 
-📚 Minha caminhada tá mais pra série com várias temporadas: cheia de aprendizado, erros e umas pausas pro café.
+🚀 Aprender, errar, refatorar, repetir. Debugar faz parte da vida e do código.
 
-🚀  Aprender, errar, refatorar, repetir. Debugar faz parte da vida e do código.
-
-💬  Atualmente, curso Técnico em Desenvolvimento de Sistemas.
+💬 Nesse espaço quero registrar tudo: estudos, práticas, projetos e cada passo rumo ao meu objetivo de virar dev back-end Java. Bora codar e crescer!
+ 
 <p>
 📫 Sinta-se à vontade para entrar em contato!
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantossantana/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vanessasantana12@outlook.com)
+
+
+![431827538-af00cee0-5a9d-45ff-844c-8627618f8963](https://github.com/user-attachments/assets/ab052b11-e0a2-4777-a44d-f9f3026ce776)
+
+
+
+<br><br>
+
 
 <br> <br> <br>
 
