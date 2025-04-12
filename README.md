@@ -10,14 +10,13 @@
  
 👩‍💻 Em transição de carreira, focada em virar dev back-end Java (com muito café no caminho, claro ☕).
 
-
-💻 Aprendo na prática: fuçando, testando, errando, tentando de novo e seguido firme porque desistir não tá nos planos.
+💻 Aprendo na prática: fuçando, testando, errando, tentando de novo e seguindo firme, porque desistir não está nos planos.
 
 🎬 Amo maratonar filmes e séries, mas agora maratono código. Spoiler: tem bug com plot twist todo dia.
 
-📚 Minha caminhada é tipo série longa: cheia de reviravoltas, bugs, cafés e evolução com aprendizado em cada episódio.
+📚 Minha caminhada é como uma série longa: cheia de reviravoltas, bugs, cafés e evolução com aprendizado em cada episódio.
 
-🚀 Esse perfil é meu diário de bordo: onde registro estudos, projetos e cada passo rumo à minha primeira vaga como dev back-end.
+🚀 Esse perfil é meu diário de bordo: onde registro estudos, projetos e cada passo rumo à minha primeira vaga.
 
 💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
 
