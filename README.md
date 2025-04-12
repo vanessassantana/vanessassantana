@@ -15,9 +15,9 @@
 
 🎬 Amo maratonar filmes e séries, mas agora maratono código. Spoiler: tem bug com plot twist todo dia.
 
-📚 Minha caminhada é tipo série com várias temporadas: cheia de reviravoltas, bugs, cafés e evolução com aprendizado em cada episódio.
+📚 Minha caminhada é tipo série longa: cheia de reviravoltas, bugs, cafés e evolução com aprendizado em cada episódio.
 
-🚀 Esse perfil é meu diário de bordo: onde registro estudos, projetos e cada passo rumo à minha primeira vaga como dev back-end Java.
+🚀 Esse perfil é meu diário de bordo: onde registro estudos, projetos e cada passo rumo à minha primeira vaga como dev back-end.
 
 💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
 
