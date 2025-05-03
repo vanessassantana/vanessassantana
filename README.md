@@ -12,11 +12,11 @@
 
 🎬 Amo maratonar filmes e séries, mas agora maratono código.
 
-💻 fuçando, testando, errando, tentando de novo e seguindo firme, porque desistir não está nos planos.
+💻 Sempre fuçando, testando, errando, tentando de novo e seguindo firme, porque desistir não está nos planos.
 
-📚 Minha caminhada está sendo como roteiro de série: cada bug é um plot twist que ensina, cada solução é uma vitória, e o café... é o herói não reconhecido.
+📚 Cada bug é um desafio que me ensina, cada solução é uma vitória, e o café... é o herói não reconhecido.
 
-🚀Este perfil é meu diário: onde registro estudos, projetos e cada passo rumo à minha primeira vaga.
+🚀 Aqui, registrarei meus estudos, projetos e cada passo rumo à minha primeira vaga.
 
 💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
 
