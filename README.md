@@ -8,34 +8,40 @@
 ### 💫 sobre mim
  <br>
  
-👩‍💻 Em transição de carreira, focada em me tornar uma dev back-end Java.
-
-🎬 Amo maratonar filmes e séries, mas agora maratono código.
-
-💻 Sempre fuçando, testando, errando, tentando de novo e seguindo firme, porque desistir não está nos planos.
-
-📚 Cada bug é um desafio que me ensina, cada solução é uma vitória, e o café... é o herói não reconhecido.
-
-🚀 Aqui, registrarei meus estudos, projetos e cada passo rumo à minha primeira vaga.
-
+👩‍💻 Em transição de carreira e determinada a conquistar meu lugar como dev back-end Java.  
+🎬 Troquei as maratonas de filmes pelas de código e confesso: tô viciada.  
+💻 Gosto de meter a mão na massa: fuço, erro, tento de novo… mas nunca paro.  
+📚 Pra mim, cada bug é um professor disfarçado. Cada solução, uma conquista. E o café? O verdadeiro herói não reconhecido.  
+🚀 Este perfil é meu diário de bordo: aqui registro meus estudos, projetos e a caminhada até minha primeira vaga tech.  
 💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
 
-<p>
-📫 Sinta-se à vontade para entrar em contato!
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantossantana/)
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vanessasantana12@outlook.com)
-
+---
 <br>
 
 ![431827538-af00cee0-5a9d-45ff-844c-8627618f8963](https://github.com/user-attachments/assets/ab052b11-e0a2-4777-a44d-f9f3026ce776)
+<br> <br>
+
+## 🛠️ Tecnologias em estudo
+
+- 🧠 Lógica de Programação 
+- ☕ Java                 
+- 🔧 Git & GitHub         
 
 
+## 🔜 Em breve por aqui...
 
-<br><br>
+- ✨ **APIs REST**
+- ⚙️ **Spring Boot**
+- 🐬 **MySQL** 
+<p>
 
+<br>
+ 
+📫 **Vamos conectar?** 
+ 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantossantana/)
 
-<br> <br> <br>
+<br>
 
   <div align="center">
   
