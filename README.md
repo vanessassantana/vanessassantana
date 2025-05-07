@@ -6,17 +6,17 @@
 </div>
 
  
-👩‍💻 Em transição de carreira e determinada a conquistar meu lugar como dev back-end Java. 
+👩‍💻 Em transição de carreira, rumo ao meu lugar como dev back-end Java.
 
-🎬 Troquei as maratonas de filmes pelas de código e confesso: tô viciada.
+🎬 Troquei filmes e séries por código e tô viciada!
 
-💻 Gosto de meter a mão na massa: fuço, erro, tento de novo… mas nunca paro.
+💻 Fuço, erro, aprendo e sigo.
 
-📚 Pra mim, cada bug é um desafio com lições escondidas. Cada solução, uma conquista. E o café? O verdadeiro herói não reconhecido.
+📚 Bug ensina, café sustenta.
 
-🚀 Aqui compartilho meus estudos, projetos e a missão (nada secreta) de aterrissar na minha primeira vaga tech.
+🚀 Aqui registro minha caminhada até aterrissar na minha primeira vaga tech.
 
-💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
+💬 Estudante de Técnico em Desenvolvimento de Sistemas.
 
 ---
 <br>
