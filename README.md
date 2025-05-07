@@ -12,13 +12,21 @@
 
 💻  fuço, erro, tento de novo… mas nunca paro.
 
-📚 Bug ensina, café sustenta (o verdadeiro herói não reconhecido).
+📚 Aprendo com os bugs e sobrevivo com café (o verdadeiro herói não reconhecido).
 
-🚀 Aqui registro meus estudos até aterrissar na minha primeira vaga.
+🚀 Focada em crescer e conquistar meu espaço.
 
 💬 Curso Técnico em Desenvolvimento de Sistemas.
+<br>
 
 ---
+
+```
+     Aqui você vai encontrar projetos, estudos e muita prática! Sinta-se à vontade pra acompanhar minha
+     caminhada até a  primeira vaga e trocar ideia. ✨
+
+```
+
 <br>
 
 ![431827538-af00cee0-5a9d-45ff-844c-8627618f8963](https://github.com/user-attachments/assets/ab052b11-e0a2-4777-a44d-f9f3026ce776)
@@ -42,8 +50,9 @@
   </a>
 </p>
   
-
 ---
+
+<br>
 
  ## 🔜 Em breve por aqui...
 
@@ -61,6 +70,8 @@
 <p>
 
 ---
+
+<br>
 
   <div align="center">
   
