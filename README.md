@@ -10,13 +10,13 @@
 
 🎬 Troquei filmes e séries por código e tô viciada!
 
-💻 Fuço, erro, aprendo e sigo.
+💻  fuço, erro, tento de novo… mas nunca paro.
 
-📚 Bug ensina, café sustenta.
+📚 Bug ensina, café sustenta (o verdadeiro herói não reconhecido).
 
-🚀 Aqui registro minha caminhada até aterrissar na minha primeira vaga tech.
+🚀 Aqui registro meus estudos até aterrissar na minha primeira vaga.
 
-💬 Estudante de Técnico em Desenvolvimento de Sistemas.
+💬 Curso Técnico em Desenvolvimento de Sistemas.
 
 ---
 <br>
