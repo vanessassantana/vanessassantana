@@ -5,14 +5,17 @@
 
 </div>
 
-### 💫 sobre mim
- <br>
  
-👩‍💻 Em transição de carreira e determinada a conquistar meu lugar como dev back-end Java.  
-🎬 Troquei as maratonas de filmes pelas de código e confesso: tô viciada.  
-💻 Gosto de meter a mão na massa: fuço, erro, tento de novo… mas nunca paro.  
-📚 Pra mim, cada bug é um professor disfarçado. Cada solução, uma conquista. E o café? O verdadeiro herói não reconhecido.  
-🚀 Este perfil é meu diário de bordo: aqui registro meus estudos, projetos e a caminhada até minha primeira vaga tech.  
+👩‍💻 Em transição de carreira e determinada a conquistar meu lugar como dev back-end Java. 
+
+🎬 Troquei as maratonas de filmes pelas de código e confesso: tô viciada.
+
+💻 Gosto de meter a mão na massa: fuço, erro, tento de novo… mas nunca paro.
+
+📚 Pra mim, cada bug é um desafio com lições escondidas. Cada solução, uma conquista. E o café? O verdadeiro herói não reconhecido.
+
+🚀 Aqui compartilho meus estudos, projetos e a missão (nada secreta) de aterrissar na minha primeira vaga tech.
+
 💬 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
 
 ---
@@ -21,27 +24,43 @@
 ![431827538-af00cee0-5a9d-45ff-844c-8627618f8963](https://github.com/user-attachments/assets/ab052b11-e0a2-4777-a44d-f9f3026ce776)
 <br> <br>
 
+
 ## 🛠️ Tecnologias em estudo
 
-- 🧠 Lógica de Programação 
-- ☕ Java                 
-- 🔧 Git & GitHub         
+<p align="left">
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Lógica%20de%20Programação-7F52FF?style=for-the-badge" alt="Lógica de Programação">
+  </a>
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="#" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+  
 
+---
 
-## 🔜 Em breve por aqui...
+ ## 🔜 Em breve por aqui...
 
-- ✨ **APIs REST**
-- ⚙️ **Spring Boot**
-- 🐬 **MySQL** 
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge" alt="APIs REST">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+</p>
 <p>
 
-<br>
- 
-📫 **Vamos conectar?** 
- 
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessasantossantana/)
-
-<br>
+---
 
   <div align="center">
   
