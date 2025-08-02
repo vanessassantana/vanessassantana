@@ -8,8 +8,7 @@
 Sou a Vanessa, em transição de carreira para a área de **Desenvolvimento Back-End Java**.  
 Estou construindo minha base com muito estudo, prática e coragem, porque recomeçar não é fácil, mas transforma vidas.
 
-💼 Venho de uma trajetória fora da tecnologia, com experiências que exigiram jogo de cintura, resiliência e solução de problemas no dia a dia.  
-Agora, coloco essas habilidades em prática para evoluir como desenvolvedora.
+💼 Venho de uma trajetória fora da tecnologia, com experiências que exigiram jogo de cintura, resiliência e solução de problemas no dia a dia. Agora, coloco essas habilidades em prática para evoluir como desenvolvedora.
 
 ☕ Com disciplina e curiosidade, sigo dedicada aos estudos, focando no aprendizado contínuo.
 
