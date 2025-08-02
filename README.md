@@ -20,7 +20,17 @@ Se você também está começando ou já passou por essa jornada, bora trocar id
 Dicas, feedbacks, mentoria e boas conversas são sempre bem-vindos. 💡
 
 ---
+<br><br>
 
+ <div align="center">
+  
+ <a href="https://github.com/vanessassantana">
+    <img alt="status" height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessassantana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img alt="TRINDADE" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessassantana&theme=tokyonight&hide_border=true&&layout=compact"/>
+  </a>
+  </div>
+
+<br>
 <br>
 
 <p align="center">
@@ -31,11 +41,5 @@ Dicas, feedbacks, mentoria e boas conversas são sempre bem-vindos. 💡
 
 <br>
 
-  <div align="center">
   
- <a href="https://github.com/vanessassantana">
-    <img alt="status" height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessassantana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img alt="TRINDADE" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessassantana&theme=tokyonight&hide_border=true&&layout=compact"/>
-  </a>
-  </div>
 
