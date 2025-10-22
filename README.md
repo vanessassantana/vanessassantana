@@ -34,9 +34,9 @@ Acredito que um bom código vai além de funcionar, ele deve ser claro, eficient
 
  <div align="center">
   
- <a href="https://github.com/vanessassantana">
-    <img alt="status" height="150em" src="https://github-readme-stats.vercel.app/api?username=vanessassantana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img alt="TRINDADE" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessassantana&theme=tokyonight&hide_border=true&&layout=compact"/>
+ <a href="https://github.com/Vanessassantana">
+    <img alt="status" height="150em" src="https://github-readme-stats.vercel.app/api?username=Vanessassantana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img alt="TRINDADE" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessassantana&theme=tokyonight&hide_border=true&&layout=compact"/>
   </a>
   </div>
 
